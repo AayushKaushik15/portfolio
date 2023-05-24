@@ -1,5 +1,6 @@
 # portfolio
-DONT MESS WiTH FILES other wise you mess with your code 
+Don't mess with files; otherwise, you'll mess with your code.
+If you want to make a change, don't do it by yourself
 
 
 Steps 
