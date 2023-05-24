@@ -1,4 +1,7 @@
 # portfolio
+DONT MESS WiTH FILES other wise you mess with your code 
+
+
 Steps 
 1. Download the file
 2. add file in VS code
